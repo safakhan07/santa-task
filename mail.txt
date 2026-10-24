@@ -1,0 +1,7 @@
+Dear <name>,
+
+Santa Claus would like to meet you!
+Place: <address>
+Time: <time>
+
+See you there!
